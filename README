@@ -5,6 +5,20 @@
 OpenSourceOntologies is a project gallery for ontology definitions based in Open source Rails developed by Jacques Crocker.
 
 
+== Instalation
+   1.  Download the project files.
+   2. Add github to your rubygem sources (gem sources -a http://gems.github.com)
+   3. Run (sudo) rake gems:install ( you might need to install haml by hand: gem install haml)
+   4. Do your usual rails-fu
+         1. Create database
+         2. Edit database config files
+         3. Run (sudo) rake db:migrate
+   5. Do some opensourcerails-fu configs
+         1. Setup your application details in app_config.yml
+         2. Setup your mailserver details in mailer.yml
+
+Rock and Roll!
+
 == Credits
 
 
