@@ -17,7 +17,7 @@
 development:
   adapter: mysql
   encoding: utf8
-  database: opensrcrails_development
+  database: openonto_development
   username: root
   password:
   host: localhost
@@ -25,7 +25,7 @@ development:
 blog_development:
   adapter: mysql
   encoding: utf8
-  database: opensourcerails_blog
+  database: openonto_blog
   username: root
   password: root
   host: localhost
@@ -37,7 +37,7 @@ blog_development:
 test:
   adapter: mysql
   encoding: utf8
-  database: opensrcrails_test
+  database: openonto_test
   username: root
   password:
   host: localhost
@@ -45,7 +45,7 @@ test:
 production:
   adapter: mysql
   encoding: utf8
-  database: opensrcrails_production
+  database: openonto_production
   username: root
   password: 
   host: localhost

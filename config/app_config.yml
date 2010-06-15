@@ -1,10 +1,10 @@
 # Set Site Details
-site_name: "Open Source Rails"
-site_url: "http://www.opensourcerails.com"
-blog_url: "http://blog.opensourcerails.com"
-admin_email_name: "OpenSourceRails"
-admin_email_address: "opensourcerails@gmail.com"
-version: "v1.0"
+site_name: "Open Source Ontologies"
+site_url: "http://www.opensourceontology.com"
+blog_url: "http://blog.opensourceontology.com"
+admin_email_name: "OpenSourceOntology"
+admin_email_address: "opensourceontology@gmail.com"
+version: "v0.1"
 
 # Options
 ajax_paging: true
@@ -14,16 +14,16 @@ enable_throttler: false
 show_morph: false
 
 # About Page
-site_description: "Open Source Rails is a community site dedicated to tracking the best open source Ruby on Rails applications."
+site_description: "Open Source Ontology is a community site dedicated to tracking the best open ontology definitions."
 
 # SEO Stuff
-default_meta_keywords: "open source ruby on rails"
-default_meta_description: "Open Source Rails is a community site dedicated to tracking the best open source Ruby on Rails applications."
+default_meta_keywords: "open source ontology owl rdf"
+default_meta_description: "Open Source Ontology is a community site dedicated to tracking the best open ontology definitions."
 
 # Tell a Friend
-tellafriend_subject: "Check out OpenSourceRails.com"
-tellafriend_body_intro: "OpenSourceRails.com is a gallery of the latest and greatest open source Ruby on Rails projects. Check it out: http://www.opensourcerails.com"
-tellafriend_body_message: "It features an easy to use browse gallery with screenshots plus community driven comments, ratings, and bookmarking."
+#tellafriend_subject: "Check out OpenSourceRails.com"
+#tellafriend_body_intro: "OpenSourceRails.com is a gallery of the latest and greatest open source Ruby on Rails projects. Check it out: http://www.opensourcerails.com"
+#tellafriend_body_message: "It features an easy to use browse gallery with screenshots plus community driven comments, ratings, and bookmarking."
 
 # Paging Sizes
 project_list_max: 25
